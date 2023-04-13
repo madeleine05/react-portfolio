@@ -128,7 +128,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "name@domain.com",
     YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "If you have any questions, feel free to contact me! :)",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -138,8 +138,9 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com",
-    facebook: "https://facebook.com",,
+    facebook: "https://facebook.com",
     twitter: "https://twitter.com",
+    youtube: "https://youtube.com",
 };
 export {
     meta,
