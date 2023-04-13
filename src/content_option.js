@@ -138,8 +138,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    facebook: "https://facebook.com",,
     twitter: "https://twitter.com",
 };
 export {
