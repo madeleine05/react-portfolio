@@ -3,7 +3,7 @@ import "./style.css";
 import {
   FaGithub,
   FaTwitter,
-  FaFacebookF,
+  FaFacebook,
   FaLinkedin,
   FaYoutube,
   FaTwitch,
